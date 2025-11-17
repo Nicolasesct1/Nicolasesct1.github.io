@@ -1,5 +1,5 @@
 import imgNote from "../assets/img-projects/note-app.png";
-import urbanStyle from "../assets/img-projects/urbanStyle.png";
+import UrbanRoutes from "../assets/img-projects/UrbanRouts.png";
 import legalWeb from "../assets/img-projects/legalweb.webp";
 import mediCare from "../assets/img-projects/medicare.jpg";
 import astroFit from "../assets/img-projects/Astrofit.jpg";
@@ -20,7 +20,7 @@ export const proyectos = [
     titulo: "Urban Routes",
     descripcion:
       "Urban Routes, diseñe y ejecute pruebas funcionales, de interfaz y compatibilidad",
-    imagen: urbanStyle.src,
+    imagen: UrbanRoutes.src,
     tecnologias: ["Jira", "Figma"],
     categoria: "QA Engineer",
   },

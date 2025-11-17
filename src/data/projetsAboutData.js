@@ -1,11 +1,11 @@
-import urbanStyle from "../assets/img-projects/urbanStyle.png";
+import UrbanRoutes from "../assets/img-projects/UrbanRoutes.png";
 import imgNote from "../assets/img-projects/note-app.png";
 
 export const proyectos = [
   {
     titulo: "Urban Routes",
     descripcion: "Urban Routes, diseñe y ejecute pruebas funcionales, de interfaz y compatibilidad",
-    imagen: urbanStyle.src,
+    imagen: UrbanRoutes.src,
     tecnologias: ["Jira", "Figma"],
   },
   {
