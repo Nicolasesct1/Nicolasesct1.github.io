@@ -44,13 +44,13 @@ const SkillsList = () => {
       "Tengo experiencia trabajando en startups y consultoras tecnológicas, desarrollando y maquetando sitios web a partir de diseños en Figma. Para ello, utilizo tecnologías frontend como Astro y React, junto con Tailwind CSS y otras librerías y frameworks para el estilizado y la optimización de interfaces.",
     ],
     "Mi formacion": [
-      "Estudié una tecnicatura en automatización de grado universitaria en el ITU, lo que me brindó las bases en programación. Posteriormente, decidí enfocarme en el desarrollo web y de software estudiando en el ITU. Ademas, realicé diversos cursos, diplomados y capacitaciones en grandes universidades Argentinas, como la UTN y el Instituto Tecnológico Universitario, tambien, complemento mi formación con el aprendizaje autodidacta, lo que me permite mantenerme actualizado con los avances tecnológicos en el desarrollo de software.",
+      "Estudié un Ingenieria de Sistemas y Telecomunicaciones en la Universidad Sergio Arboleda, lo que me brindó las bases en programación. Posteriormente, decidí enfocarme en el area de QA. Ademas, realicé diversos cursos con certificados en instituciones como Platzi y Tripleten, tambien complemento mi formación con el aprendizaje autodidacta, lo que me permite avanzar en mis conocimientos como QA Automation",
     ],
     "¿Cómo trabajo en equipo?": [
       "Tengo experiencia trabajando en equipos multidisciplinarios, donde me he encargado del desarrollo frontend de aplicaciones web. Para ello, utilizo metodologías ágiles como Scrum y Kanban, además de herramientas de control de versiones como Git y GitHub para gestionar el flujo de trabajo. También cuento con experiencia en el uso de herramientas de gestión de proyectos como Trello y Jira, facilitando la organización y colaboración dentro del equipo.",
     ],
     "Metodolgias Agiles": [
-      "He trabajado con metodologías ágiles como Scrum y Kanban. En Scrum, participé en sprints de dos semanas, donde al finalizar cada sprint realizaba un pull request (PR) con mi trabajo, el cual pasaba por una fase de revisión y corrección antes de ser fusionado y enviado a producción. También he trabajado con Kanban, utilizando tableros para gestionar tareas y moverlas según su estado de progreso. Además, participé en reuniones diarias (dailies) para planificar y reportar avances del proyecto, asegurando una comunicación eficiente dentro del equipo.",
+      "He trabajado con metodologías ágiles como Scrum. En Scrum, participé en sprints por lo general de dos semanas activamente en los dailys, plannings, reviews y retrospectives, donde al finalizar cada sprint realizaba una presentacion a clientes internacionales de un demo con los avances realizados del proyecto, el cual previamente debio ser certificado por mi como el area de QA.",
     ],
   };
 
