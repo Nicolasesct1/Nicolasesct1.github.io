@@ -17,14 +17,12 @@ export const proyectos = [
     categoria: "fullstack",
   },
   {
-    titulo: "E-commerce Urban Style",
+    titulo: "Urban Routes",
     descripcion:
-      "E-commerce funcional de ropa y accesorios, con carrito de compras categorias y pasarela de pago desarrollado en React.",
+      "Urban Routes, diseñe y ejecute pruebas funcionales, de interfaz y compatibilidad",
     imagen: urbanStyle.src,
-    tecnologias: ["React", "Tailwind", "Firebase"],
-    demo: "https://proyecto-final-rodriguez-sable.vercel.app/",
-    codigo: "https://github.com/Lautaro-R-collins/ProyectoFinal-Rodriguez.git",
-    categoria: "fullstack",
+    tecnologias: ["Jira", "Figma"],
+    categoria: "QA Engineer",
   },
   {
     titulo: "Tienda Artesana",
