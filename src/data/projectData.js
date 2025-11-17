@@ -1,5 +1,5 @@
 import imgNote from "../assets/img-projects/note-app.png";
-import UrbanRoutes from "../assets/img-projects/UrbanRouts.png";
+import UrbanRoutes from "../assets/img-projects/UrbanRoutes.png";
 import legalWeb from "../assets/img-projects/legalweb.webp";
 import mediCare from "../assets/img-projects/medicare.jpg";
 import astroFit from "../assets/img-projects/Astrofit.jpg";
