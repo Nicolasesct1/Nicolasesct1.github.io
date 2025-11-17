@@ -12,7 +12,6 @@ export const proyectos = [
       "App full-stack con funciones CRUD, creacion de tableros y listas, autentificacion de usuarios, desarrollada con MERN stack.",
     imagen: imgNote.src,
     tecnologias: ["React", "Tailwind", "Express", "MongoDB"],
-    demo: "https://front-react-todo.onrender.com",
     codigo: "https://github.com/Lautaro-R-collins/Front-react-todo",
     categoria: "fullstack",
   },
@@ -31,7 +30,6 @@ export const proyectos = [
     imagen:
       "https://i.pinimg.com/736x/c9/70/bf/c970bfbc24489e39418b2c1b1f8f74ef.jpg",
     tecnologias: ["React", "Node", "Express", "MongoDB"],
-    demo: "https://c21-05-ft-node-react-mirror-frontend-64qbwssi2-muyvisual.vercel.app/",
     codigo: "https://github.com/No-Country-simulation/c21-05-ft-node-react",
     categoria: "fullstack",
   },
@@ -42,7 +40,6 @@ export const proyectos = [
     imagen:
       "https://i.pinimg.com/736x/a4/85/c4/a485c4da3e78f4f518ddbcdb6637bacf.jpg",
     tecnologias: ["React", "contextAPI"],
-    demo: "https://traker-gastos-ingresos.onrender.com/",
     codigo: "https://github.com/Lautaro-R-collins/Traker-Gastos-Ingresos",
     categoria: "frontend",
   },
@@ -53,7 +50,6 @@ export const proyectos = [
     imagen:
       "https://i.pinimg.com/736x/10/6e/cd/106ecd1bfe5ed1c3defb83ea0f87a334.jpg",
     tecnologias: ["React", "contextAPI", "tailwind"],
-    demo: "https://app-clima-om19.onrender.com/",
     codigo: "https://github.com/Lautaro-R-collins/app-clima",
     categoria: "frontend",
   },
@@ -63,7 +59,6 @@ export const proyectos = [
       "Web desarrollada con Astro y Tailwind, embudo de marketing para estudios jurídicos.",
     imagen: legalWeb.src,
     tecnologias: ["Astro", "tailwind", "JavaScript"],
-    demo: "https://legal-staff.vercel.app/",
     codigo: "https://github.com/Lautaro-R-collins/legal-staff",
     categoria: "frontend",
   },
@@ -73,7 +68,6 @@ export const proyectos = [
       "Web desarrollada con Astro y Tailwind, embudo de marketing para Obras Sociales.",
     imagen: mediCare.src,
     tecnologias: ["Astro", "tailwind", "JavaScript"],
-    demo: "https://obra-social-landing.vercel.app/",
     codigo: "https://github.com/Lautaro-R-collins/obra-social-landing.git",
     categoria: "frontend",
   },
@@ -83,7 +77,6 @@ export const proyectos = [
       "Web desarrollada con Astro y Tailwind, embudo de marketing para asesorias fitness.",
     imagen: astroFit.src,
     tecnologias: ["Astro", "tailwind", "JavaScript"],
-    demo: "https://gym-page-sandy.vercel.app/",
     codigo: "https://github.com/Lautaro-R-collins/GymPage.git",
     categoria: "frontend",
   },
@@ -93,7 +86,6 @@ export const proyectos = [
     imagen:
       "https://i.pinimg.com/736x/3b/4f/4e/3b4f4e170fcb1795b88f4941f49df0a2.jpg",
     tecnologias: ["Next.js", "Tailwind", "GraphQL"],
-    demo: "https://one00-proyects-web.onrender.com/",
     codigo: "https://github.com/Lautaro-R-collins/100-days-of-coding-in-JS",
     categoria: "frontend",
   },
@@ -104,18 +96,7 @@ export const proyectos = [
     imagen:
       "https://i.pinimg.com/736x/8f/f0/bb/8ff0bbd0e5844ed254bede44522c8338.jpg",
     tecnologias: ["React", "Vite", "TypeScript", "Tailwind"],
-    demo: "https://planify-1tu6.onrender.com/",
     codigo: "https://github.com/Lautaro-R-collins/PlaniFy-organization-app",
-    categoria: "frontend",
-  },
-  {
-    titulo: "Verbenas Paisajes",
-    descripcion:
-      "Pagina estatica desarrollada con Astro y tailwind como reto para una startup.",
-    imagen: Verbenas.src,
-    tecnologias: ["Astro", "Tailwind", "JavaScript"],
-    demo: "https://challenge-neowyze.onrender.com/",
-    codigo: "https://github.com/Lautaro-R-collins/challenge-Neowyze.git",
     categoria: "frontend",
   },
   {
@@ -124,7 +105,6 @@ export const proyectos = [
       "API RESTful construida con Express y MongoDB para gestionar tareas con operaciones CRUD, Registro de usuarios y login con JWT.",
     imagen: "https://miro.medium.com/1*47S4iWVwTicFkFL4-Z4uAA.png",
     tecnologias: ["Express", "Node.js", "MongoDB", "Mongoose"],
-    demo: "https://back-express-todo.onrender.com",
     codigo: "https://github.com/Lautaro-R-collins/Back-express-todo.git",
     categoria: "backend",
   },
