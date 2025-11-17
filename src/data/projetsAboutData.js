@@ -1,20 +1,20 @@
 import UrbanRoutes from "../assets/img-projects/UrbanRoutes.png";
 import imgNote from "../assets/img-projects/note-app.png";
+import UrbanGrocers from "../assets/img-projects/UrbanGrocers.png";
 
 export const proyectos = [
+   {
+    titulo: "Urban Grocers",
+    imagen: UrbanGrocers.src,
+    tecnologias: ["Jira", "Postman"],
+  },
   {
     titulo: "Urban Routes",
     descripcion: "Urban Routes, diseñe y ejecute pruebas funcionales, de interfaz y compatibilidad",
     imagen: UrbanRoutes.src,
     tecnologias: ["Jira", "Figma"],
   },
-  {
-    titulo: "Tienda Artesana",
-    imagen:
-      "https://i.pinimg.com/736x/c9/70/bf/c970bfbc24489e39418b2c1b1f8f74ef.jpg",
-    tecnologias: ["React", "Node", "Express", "MongoDB"],
-    codigo: "https://github.com/No-Country-simulation/c21-05-ft-node-react",
-  },
+
   {
     titulo: "App organizacion",
     imagen: imgNote.src,
